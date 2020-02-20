@@ -1,0 +1,169 @@
+LandUse,LandForm,SoilTypeAndThickness,Geology,Slope,Aspect,SPI,TWI,STI,Rainfall,DistanceToWaterways,Class
+,,NM,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Village Homlets,C22,Residual t=1-2,Qtzfd,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory4,0
+Rubber,D34,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory3,0
+Rubber,C22,Residual t<1,GrGn,SlopeCategory1,AspectCategory5,SPICategory1,TWICategory1,STICategory2,RainfallCategory2,DistanceTWCategory1,0
+Rubber,D38,Residual t=2-3,Kh,SlopeCategory4,AspectCategory4,SPICategory2,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Dense Mixed Forests,D37,Residual t=1-2,Kh,SlopeCategory5,AspectCategory1,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+,,Residual t=1-2,ChGn,SlopeCategory1,AspectCategory2,SPICategory1,TWICategory4,STICategory1,RainfallCategory6,DistanceTWCategory3,0
+Paddy,C16,Residual t=2-3,Qtzfd,SlopeCategory1,,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+,,Residual t=1-2,GrGn,SlopeCategory2,AspectCategory5,SPICategory1,TWICategory4,STICategory1,RainfallCategory2,DistanceTWCategory1,0
+Rubber,D32,Residual t=1-2,ChGn,SlopeCategory1,,SPICategory1,TWICategory5,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory1,,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory1,0
+Scrubland,C22,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory1,SPICategory1,TWICategory4,STICategory1,RainfallCategory4,DistanceTWCategory2,0
+,,NM,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,D38,Residual t=1-2,Qtzfd,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,0
+Miscellaneous Uses,C22,Residual t<1,GrGn,SlopeCategory1,AspectCategory1,SPICategory1,TWICategory3,STICategory1,RainfallCategory1,DistanceTWCategory2,0
+Rubber,C22,Residual t=2-3,GrGn,SlopeCategory1,,SPICategory1,TWICategory4,STICategory1,RainfallCategory2,DistanceTWCategory1,0
+Mixed Tree Crops,C22,Residual t=1-2,Qtz,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Scrubland,C22,Residual t=2-3,ChGn,SlopeCategory3,AspectCategory5,SPICategory1,TWICategory3,STICategory2,RainfallCategory2,DistanceTWCategory1,0
+,,Residual t=1-2,GtBtGn,SlopeCategory3,AspectCategory1,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Paddy,C22,Residual t=1-2,Qtzfd,SlopeCategory1,,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Paddy,C16,Residual t=1-2,Kh,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Mixed Tree Crops,D34,Residual t=2-3,Kh,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory2,STICategory2,RainfallCategory4,DistanceTWCategory3,0
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Mixed Tree Crops,D38,Residual t<1,Qtzfd,SlopeCategory2,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory5,DistanceTWCategory1,0
+Patana/Grasslands,D32,NM,Kh,SlopeCategory4,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Tea,C22,Rock Exposure,Qtzfd,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Paddy,C16,Residual t=1-2,ChGn,SlopeCategory1,,SPICategory1,TWICategory6,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,D34,Residual t=1-2,Kh,SlopeCategory4,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory2,0
+Rubber,C22,Residual t<1=200,Qtz,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory2,RainfallCategory3,DistanceTWCategory2,0
+Miscellaneous Uses,D34,Residual t<1,Qtzfd,SlopeCategory1,AspectCategory3,SPICategory1,TWICategory2,STICategory2,RainfallCategory5,DistanceTWCategory1,0
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,0
+Dense Mixed Forests,D38,Residual t=1-2,Kh,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t<1,ChGn,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory1,STICategory1,RainfallCategory6,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory2,STICategory2,RainfallCategory2,DistanceTWCategory2,0
+Rubber,D38,Residual t<1,ChGn,SlopeCategory4,AspectCategory4,SPICategory1,TWICategory1,STICategory1,RainfallCategory2,DistanceTWCategory3,0
+Rubber,C22,Colluvium t=1,ChGn,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t=2-3,ChGn,SlopeCategory3,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory5,DistanceTWCategory1,0
+Rubber,D38,Colluvium t=2,ChGn,SlopeCategory4,AspectCategory2,SPICategory2,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory4,0
+Scrubland,C16,Residual t<1,ChGn,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,D38,Residual t=2-3,Ch,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory5,0
+Paddy,C22,Residual t=1-2,Qtzfd,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,0
+Rubber,D34,Residual t=1-2,Qtzfd,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Degraded Forests,D34,NM,Kh,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory1,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,D34,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Paddy,C16,Residual t=1-2,ChGn,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,0
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory1,,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Paddy,C22,Residual t=2-3,GrGn,SlopeCategory1,,SPICategory1,TWICategory4,STICategory1,RainfallCategory2,DistanceTWCategory1,0
+Mixed Tree Crops,C11,Residual t=1-2,Qtzfd,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory2,RainfallCategory3,DistanceTWCategory1,0
+Mixed Tree Crops,C22,Residual t=2-3,ChGn,SlopeCategory2,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+,,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory2,STICategory2,RainfallCategory2,DistanceTWCategory2,0
+Rubber,C16,Rock Exposure,ChGn,SlopeCategory1,AspectCategory5,SPICategory1,TWICategory1,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,D38,Residual t<1,Qtzfd,SlopeCategory4,AspectCategory5,SPICategory1,TWICategory2,STICategory2,RainfallCategory4,DistanceTWCategory1,0
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Degraded Forests,C22,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory5,SPICategory1,TWICategory3,STICategory2,RainfallCategory3,DistanceTWCategory1,0
+Mixed Tree Crops,D34,Residual t=2-3,ChGn,SlopeCategory1,AspectCategory3,SPICategory1,TWICategory2,STICategory2,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory3,AspectCategory4,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory4,STICategory1,RainfallCategory5,DistanceTWCategory2,0
+Degraded Forests,C22,Colluvium t=1-2,ChGn,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory4,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Degraded Forests,C23,Residual t<1,GrGn,SlopeCategory5,AspectCategory2,SPICategory2,TWICategory4,STICategory1,RainfallCategory1,DistanceTWCategory1,0
+Rubber,D37,Residual t=1-2,Qtzfd,SlopeCategory1,,SPICategory1,TWICategory4,STICategory1,RainfallCategory5,DistanceTWCategory1,0
+Rubber,D34,Residual t=2-3,ChGn,SlopeCategory2,AspectCategory3,SPICategory2,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory4,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory3,STICategory2,RainfallCategory4,DistanceTWCategory1,0
+Tea,C22,Residual t=1-2,Qtzfd,SlopeCategory3,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory5,DistanceTWCategory1,0
+Rock,D34,Residual t=1-2,Kh,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory2,0
+Dense Mixed Forests,D32,Residual t=2-3,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Dense Mixed Forests,C22,Residual t=2-3,Kh,SlopeCategory1,AspectCategory1,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory2,0
+Degraded Forests,D34,NM,Kh,SlopeCategory3,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Miscellaneous Uses,C22,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory5,SPICategory1,TWICategory5,STICategory1,RainfallCategory3,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory4,STICategory1,RainfallCategory5,DistanceTWCategory1,0
+Rubber,C22,Residual t=2-3,Qtzfd,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,C22,Colluvium t=1-2,Qtzfd,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Paddy,D38,Residual t=1-2,ChGn,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory1,0
+Degraded Forests,D34,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory5,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory3,STICategory2,RainfallCategory4,DistanceTWCategory1,0
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory4,STICategory2,RainfallCategory4,DistanceTWCategory3,0
+Mixed Tree Crops,D38,Residual t<1,ChGn,SlopeCategory4,AspectCategory3,SPICategory1,TWICategory4,STICategory2,RainfallCategory4,DistanceTWCategory1,0
+Mixed Tree Crops,C22,Residual t<1,Qtzfd,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory4,STICategory2,RainfallCategory3,DistanceTWCategory3,0
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory3,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,0
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory1,AspectCategory2,SPICategory1,TWICategory2,STICategory2,RainfallCategory3,DistanceTWCategory3,1
+Rubber,C22,Colluvium t=1-2,Qtz,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C23,Colluvium t=1-2,Qtz,SlopeCategory4,AspectCategory5,SPICategory1,TWICategory2,STICategory2,RainfallCategory3,DistanceTWCategory1,1
+Village Homlets,C22,Residual t=1-2,Qtzfd,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory4,1
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory3,AspectCategory3,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory2,AspectCategory4,SPICategory1,TWICategory3,STICategory4,RainfallCategory3,DistanceTWCategory1,1
+Rubber,D38,Residual t<1=200,Qtzfd,SlopeCategory3,AspectCategory1,SPICategory2,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Tea,C23,Rock Exposure,Qtzfd,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Paddy,C22,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory3,SPICategory1,TWICategory3,STICategory2,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1=200,Qtzfd,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory2,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1=200,Qtzfd,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory1,STICategory4,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory3,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Scrubland,C22,Residual t=1-2,Qtzfd,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Scrubland,C22,Residual t=1-2,Qtzfd,SlopeCategory2,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,Qtzfd,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory2,STICategory2,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C22,Residual t=2-3,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory3,STICategory5,RainfallCategory3,DistanceTWCategory1,1
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory1,AspectCategory3,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber/Scrubland,C22,Residual t=2-3,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory4,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory4,AspectCategory3,SPICategory1,TWICategory1,STICategory2,RainfallCategory3,DistanceTWCategory6,1
+Mixed Tree Crops,C22,Residual t=1-2,Kh,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory4,1
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory4,STICategory2,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory4,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory5,AspectCategory3,SPICategory1,TWICategory5,STICategory2,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory4,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory1,1
+Rubber,C22,Residual t=2-3,Qtz,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory4,AspectCategory5,SPICategory2,TWICategory3,STICategory2,RainfallCategory2,DistanceTWCategory1,1
+Rubber,C16,Residual t=1-2,Kh,SlopeCategory3,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory2,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory3,AspectCategory1,SPICategory1,TWICategory4,STICategory4,RainfallCategory2,DistanceTWCategory1,1
+Rubber,C16,Colluvium t=1-2,Kh,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory1,1
+Rubber,C16,Residual t=2-3,ChGn,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory3,1
+Rubber,C22,Residual t=1-2,Kh,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory3,1
+Rubber,D34,Colluvium t=1,ChGn,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,1
+Rubber,D32,Residual t=2-3,ChGn,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D34,Residual t=3-4,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Mixed Tree Crops,C22,Residual t=3-4,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory2,RainfallCategory3,DistanceTWCategory1,1
+Rubber,D38,Residual t=4-5,ChGn,SlopeCategory3,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Rubber,D38,Residual t=3-4,ChGn,SlopeCategory1,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Mixed Tree Crops,D38,Residual t=2-3,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory3,1
+Rubber,D32,Colluvium t=2,ChGn,SlopeCategory4,AspectCategory5,SPICategory2,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory2,1
+Annual Crops,D34,Colluvium t=1,ChGn,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory2,STICategory5,RainfallCategory4,DistanceTWCategory1,1
+Mixed Tree Crops,C22,Residual t=2,ChGn,SlopeCategory3,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory2,DistanceTWCategory1,1
+Rubber,C22,Residual t=2,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Rubber,C22,Residual t=2,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Degraded Forests,D37,Colluvium t=2,ChGn,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory4,1
+Scrubland,D34,Colluvium t=1,ChGn,SlopeCategory3,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory3,1
+Rubber,C22,Colluvium t=1,Qtz,SlopeCategory3,AspectCategory5,SPICategory1,TWICategory2,STICategory4,RainfallCategory2,DistanceTWCategory2,1
+Rubber,C22,Colluvium t=4-5,Qtzfd,SlopeCategory2,AspectCategory3,SPICategory2,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D34,Residual t=1-2,Qtzfd,SlopeCategory3,AspectCategory1,SPICategory1,TWICategory1,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D38,Residual t=1-2,Qtzfd,SlopeCategory4,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D38,Colluvium t=1-2,Kh,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory4,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D34,Residual t<1,Kh,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D32,Residual t<1,Kh,SlopeCategory4,AspectCategory3,SPICategory3,TWICategory1,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D34,Residual t<1,Kh,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory4,DistanceTWCategory1,1
+Rubber,D32,Residual t=2,Qtzfd,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory2,STICategory2,RainfallCategory5,DistanceTWCategory2,1
+Rubber,D34,Colluvium t=2-3,Kh,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory2,STICategory5,RainfallCategory4,DistanceTWCategory1,1
+Rubber,C22,Residual t=2-3,Kh,SlopeCategory2,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory3,1
+Rubber,D38,Residual t=2-3,ChGn,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,1
+Rubber,D38,Residual t=2-3,ChGn,SlopeCategory4,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Mixed Tree Crops,D34,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Mixed Tree Crops,C22,Residual t=2-3,ChGn,SlopeCategory4,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Mixed Tree Crops,C22,Residual t=1-2,ChGn,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1,ChGn,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory2,1
+Degraded Forests,C22,Residual t<1,ChGn,SlopeCategory1,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Degraded Forests,C22,Residual t<1,ChGn,SlopeCategory3,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Mixed Tree Crops,C22,Residual t<1,ChGn,SlopeCategory2,AspectCategory4,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory3,1
+Mixed Tree Crops,C22,Residual t<1,ChGn,SlopeCategory5,AspectCategory2,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory3,1
+Degraded Forests,C22,Residual t=1-2,ChGn,SlopeCategory4,AspectCategory1,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory2,1
+Mixed Tree Crops,C22,Colluvium t=1-2,ChGn,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory3,STICategory2,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1,ChGn,SlopeCategory4,AspectCategory1,SPICategory5,TWICategory3,STICategory1,RainfallCategory4,DistanceTWCategory3,1
+Rubber,C22,Residual t<1,ChGn,SlopeCategory2,AspectCategory1,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1,ChGn,SlopeCategory4,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t=1-2,ChGn,SlopeCategory5,AspectCategory4,SPICategory1,TWICategory4,STICategory2,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1,ChGn,SlopeCategory3,AspectCategory2,SPICategory1,TWICategory2,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,D34,Residual t=2-3,Kh,SlopeCategory4,AspectCategory3,SPICategory1,TWICategory2,STICategory2,RainfallCategory2,DistanceTWCategory3,1
+Rubber,D38,Residual t=2-3,Kh,SlopeCategory1,AspectCategory4,SPICategory1,TWICategory2,STICategory1,RainfallCategory2,DistanceTWCategory3,1
+Degraded Forests,C22,Residual t<1,Qtz,SlopeCategory1,,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Residual t<1,ChGn,SlopeCategory5,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Colluvium t=1-2,ChGn,SlopeCategory1,AspectCategory5,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Rubber,C22,Colluvium t=1-2,Qtz,SlopeCategory2,AspectCategory3,SPICategory1,TWICategory3,STICategory1,RainfallCategory3,DistanceTWCategory1,1
+Mixed Tree Crops,C22,Residual t<1,ChGn,SlopeCategory3,AspectCategory4,SPICategory1,TWICategory4,STICategory1,RainfallCategory3,DistanceTWCategory1,1
